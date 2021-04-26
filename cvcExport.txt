@@ -1,0 +1,4 @@
+License plate -> A00252699, Make-> BMW, Type-> Petrol, Price €-> 15000.0, Engine-> 3.0, Doors-> 6
+License plate -> 123456, Make-> AUDI, Type-> Petrol, Price €-> 20000.0, Engine-> 3.0, Doors-> 3
+License plate -> 78910, Make-> WV, Type-> Diesel, Price €-> 2000.0, Engine-> 2.0, Doors-> 5
+License plate -> L12DE1252, Make-> AUDI, Type-> Diesel, Price €-> 7500.0, Engine-> 1.9, Doors-> 5
